@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" android:orientation="vertical"
+    android:background="#f0f0f0" android:padding="10dp">
+    <LinearLayout android:id="@+id/trending"
+        android:layout_width="match_parent"
+        android:layout_marginTop="50dp"
+        android:orientation="vertical"
+        android:layout_height="250dp">
+        <TextView
+            android:id="@+id/ln"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/trending"
+            android:textColor="@color/colorPrimary"
+            android:textSize="20sp" />
+        <TabWidget android:background="@color/black_overlay"
+            android:layout_width="match_parent" android:layout_margin="10dp"
+            android:layout_height="2dp"></TabWidget>
+        <GridView
+            android:id="@+id/trendingVideoGrid"
+            android:layout_marginTop="20dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:columnWidth="100dp"
+            android:drawSelectorOnTop="true"
+            android:gravity="center"
+            android:numColumns="auto_fit"
+            android:stretchMode="columnWidth"
+            android:clickable="true"
+            android:focusable="true"
+            android:verticalSpacing="5dp" /></LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_below="@id/trending" android:orientation="vertical"
+        android:layout_height="250dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/recent"
+            android:textColor="@color/colorPrimary" android:textSize="20sp" />
+        <TabWidget android:background="@color/black_overlay"
+            android:layout_width="match_parent" android:layout_margin="10dp"
+            android:layout_height="2dp"></TabWidget>
+        <GridView
+            android:id="@+id/recentVideoGrid"
+            android:layout_marginTop="20dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:columnWidth="100dp"
+            android:drawSelectorOnTop="true"
+            android:gravity="center"
+            android:numColumns="auto_fit"
+            android:stretchMode="columnWidth"
+            android:clickable="true"
+            android:focusable="true"
+            android:verticalSpacing="5dp" />
+    </LinearLayout>
+
+</RelativeLayout>

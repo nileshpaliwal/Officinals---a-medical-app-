@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/icon_2"
+            android:id="@+id/iconview"
+            android:paddingLeft="1dp"
+            />
+
+        <TextView
+            android:id="@+id/mobiletext"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/mobile"
+            android:layout_alignLeft="@+id/mobile"
+            android:layout_alignStart="@+id/mobile"
+            android:layout_marginBottom="11dp"
+            android:text="@string/mobile_no"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/mobile"
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:layout_alignLeft="@+id/loginbutton"
+            android:layout_alignStart="@+id/loginbutton"
+            android:layout_centerVertical="true"
+            android:background="@drawable/round"
+            android:hint="@string/enter_mobile"
+            android:paddingLeft="50dp" />
+
+        <EditText
+            android:id="@+id/otp"
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:layout_alignLeft="@+id/loginbutton"
+            android:layout_alignStart="@+id/loginbutton"
+            android:layout_centerVertical="true"
+            android:background="@drawable/round"
+            android:hint="@string/enter_otp"
+            android:visibility="invisible"
+            android:paddingLeft="50dp" />
+
+
+        <Button
+            android:id="@+id/loginbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/mobile"
+            android:layout_marginLeft="32dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="19dp"
+            android:background="@drawable/roundbutton"
+            android:onClick="doctor_login"
+            android:text="@string/login"
+            android:textColor="#FFFFFF" />
+        <Button
+            android:id="@+id/verifybutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/mobile"
+            android:layout_marginLeft="32dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="19dp"
+            android:background="@drawable/roundbutton"
+            android:onClick="doctor_login"
+            android:text="@string/verify_otp"
+            android:visibility="invisible"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/docApply"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/loginbutton"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_toEndOf="@+id/loginbutton"
+            android:layout_toRightOf="@+id/loginbutton"
+            android:autoLink="all"
+            android:onClick="doctor_apply"
+            android:paddingLeft="42dp"
+            android:paddingTop="20dp"
+            android:text="@string/apply" />
+
+
+    </RelativeLayout>
+</android.support.design.widget.CoordinatorLayout>

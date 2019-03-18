@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_logind"
+            android:icon="@drawable/ic_login"
+            android:title="@string/login_dr" />
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/ic_nerby"
+            android:title="@string/search" />
+        <item
+            android:id="@+id/gen"
+            android:icon="@drawable/icondp"
+            android:title="@string/generic"/>
+
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings_applications_black_24dp"
+            android:title="@string/setting"/>
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_about"
+            android:title="@string/about" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_contacts"
+            android:title="@string/contact" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+
+            <item
+                android:id="@+id/nav_signout"
+                android:icon="@drawable/ic_signout"
+                android:title="@string/signout" />
+        </menu>
+    </item>
+
+</menu>

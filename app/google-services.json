@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "323417024130",
+    "firebase_url": "https://officinals-5e59c.firebaseio.com",
+    "project_id": "officinals-5e59c",
+    "storage_bucket": "officinals-5e59c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323417024130:android:ec092c2689ff4b22",
+        "android_client_info": {
+          "package_name": "in.officinal.officinals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323417024130-265flgm38d6jmif13475q6lgnipdhd3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.officinal.officinals",
+            "certificate_hash": "4d67895d268cb36f463e038cf4d3155d6d7bd95d"
+          }
+        },
+        {
+          "client_id": "323417024130-onv599h2l4cdus9ppffpjngo45tlv3dv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.officinal.officinals",
+            "certificate_hash": "b1634ffe65b8606ae2f918809ce113a63369644a"
+          }
+        },
+        {
+          "client_id": "323417024130-5jd6gju5is8n45ahoeeihh0p1f22g0dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz9LJ0WTusdeQE33wNv_DslEH5M0axicw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323417024130-5jd6gju5is8n45ahoeeihh0p1f22g0dm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

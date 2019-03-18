@@ -1,0 +1,337 @@
+<resources>
+    <string name="app_name" translatable="false">Officinal</string>
+    <string name="action_settings">Filter</string>
+
+    <string name="title_activity_splash_screen" translatable="false">SplashScreen</string>
+    <string name="dummy_button" translatable="false">Dummy Button</string>
+    <string name="dummy_content" translatable="false">DUMMY\nCONTENT</string>
+    <string name="title_activity_home" translatable="false">HomeActivity</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="title_activity_doctor__apply__here_" translatable="false">Doctor_Apply_Here_Activity</string>
+
+    <string-array name="content">
+        <item>HEALTHY DIET :
+
+May include fruits, vegetables, whole grains, and fat-free or low-fat milk and milk products
+May include lean meats, poultry, fish, beans, eggs and nuts
+Goes easy on saturated fats, trans fat, cholesterol, salt (sodium), and added sugars
+
+There are many different types of diets. Some, like a vegetarian diet, don't include meats. Others, like the Mediterranean diet,
+describe a traditional way of eating of a specific region. And there are diets for people with certain health problems,
+such as diabetes and high blood pressure.</item>
+
+        <item>        SYMPTOMS,CAUSES,PREVENTION OF DIABETES:
+
+DIABETES-There are two main kinds of diabetes: type 1 diabetes and type 2 diabetes. More than 90% of all people with diabetes have type 2. Overall, more than 3 million Canadians have diabetes, and the number is rapidly rising. Over a third of people with type 2 diabetes are unaware they have the disease and are not receiving the required treatment because, for many people, early symptoms are not noticeable without testing.
+
+TYPE 1 :  occurs when the pancreas cannot make insulin. Everyone with type 1 diabetes requires insulin injections. Most people are diagnosed with type 1 diabetes during their childhood or adolescent years. Type 1 diabetes occurs most commonly in people of northern European ancestry.
+
+TYPE 2 :  occurs when the pancreas does not make enough insulin or the body does not use insulin properly. It usually occurs in adults, although in some cases children may be affected. People with type 2 diabetes usually have a family history of this condition and 90% are overweight or obese. People with type 2 diabetes may eventually need insulin injections. This condition occurs most commonly in people of Indigenous and African descent, Hispanics, and Asians.
+
+
+SYMPTOMS :
+TYPE 1 : Typical symptoms include feeling thirstier than usual, drinking large amounts of water and producing large volumes of urine. Some people produce up to 20 liters of urine a day. Other symptoms include waking up in the middle of the night to urinate (nocturia). People with this condition may become dehydrated if they can\'t drink enough fluids to replace the water lost in urine. Children may have a fever, loss of appetite, vomiting, diarrhea or weight loss.
+
+TYPE 2 : The early symptoms are an increased feeling of thirst, frequent urination and the production of large volumes of urine. People with diabetes often feel tired all the time, and may lose weight. Many people, however, do not have any symptoms during the early stages and are diagnosed during routine testing. Later symptoms include frequent infections (for example, skin or bladder infections), slow healing of wounds, blurred vision, and pain or numbness in the feet or hands.
+
+
+CAUSES :
+TYPE 1 : Type 1 diabetes is caused by the immune system destroying the cells in the pancreas that make insulin. This causes diabetes by leaving the body without enough insulin to function normally.
+This is called an autoimmune reaction, or autoimmune cause, because the body is attacking itself.
+There is no specific diabetes causes, but the following triggers may be involved:
+. Viral or bacterial infection
+. Chemical toxins within food
+. Unidentified component causing autoimmune reaction
+
+TYPE 2 : Type 2 diabetes causes are usually multifactorial - more than one diabetes cause is involved. Often, the most overwhelming factor is a family history of type 2 diabetes.
+This is the most likely type 2 diabetes cause.
+There are a variety of risk factors for type 2 diabetes, any or all of which increase the chances of developing the condition.
+These include:
+. Obesity
+. Living a sedentary lifestyle
+. Increasing age
+. Bad diet
+
+PREVENTION :
+. Maintaining a healthy weight, eating a healthy diet and taking regular exercise.</item>
+
+        <item>        SYMPTOMS,CAUSES,PREVENTION OF DIABETES:
+
+DIABETES-There are two main kinds of diabetes: type 1 diabetes and type 2 diabetes. More than 90% of all people with diabetes have type 2. Overall, more than 3 million Canadians have diabetes, and the number is rapidly rising. Over a third of people with type 2 diabetes are unaware they have the disease and are not receiving the required treatment because, for many people, early symptoms are not noticeable without testing.
+
+TYPE 1 :  occurs when the pancreas cannot make insulin. Everyone with type 1 diabetes requires insulin injections. Most people are diagnosed with type 1 diabetes during their childhood or adolescent years. Type 1 diabetes occurs most commonly in people of northern European ancestry.
+
+TYPE 2 :  occurs when the pancreas does not make enough insulin or the body does not use insulin properly. It usually occurs in adults, although in some cases children may be affected. People with type 2 diabetes usually have a family history of this condition and 90% are overweight or obese. People with type 2 diabetes may eventually need insulin injections. This condition occurs most commonly in people of Indigenous and African descent, Hispanics, and Asians.
+
+
+SYMPTOMS :
+TYPE 1 : Typical symptoms include feeling thirstier than usual, drinking large amounts of water and producing large volumes of urine. Some people produce up to 20 liters of urine a day. Other symptoms include waking up in the middle of the night to urinate (nocturia). People with this condition may become dehydrated if they can\'t drink enough fluids to replace the water lost in urine. Children may have a fever, loss of appetite, vomiting, diarrhea or weight loss.
+
+TYPE 2 : The early symptoms are an increased feeling of thirst, frequent urination and the production of large volumes of urine. People with diabetes often feel tired all the time, and may lose weight. Many people, however, do not have any symptoms during the early stages and are diagnosed during routine testing. Later symptoms include frequent infections (for example, skin or bladder infections), slow healing of wounds, blurred vision, and pain or numbness in the feet or hands.
+
+
+CAUSES :
+TYPE 1 : Type 1 diabetes is caused by the immune system destroying the cells in the pancreas that make insulin. This causes diabetes by leaving the body without enough insulin to function normally.
+This is called an autoimmune reaction, or autoimmune cause, because the body is attacking itself.
+There is no specific diabetes causes, but the following triggers may be involved:
+. Viral or bacterial infection
+. Chemical toxins within food
+. Unidentified component causing autoimmune reaction
+
+TYPE 2 : Type 2 diabetes causes are usually multifactorial - more than one diabetes cause is involved. Often, the most overwhelming factor is a family history of type 2 diabetes.
+This is the most likely type 2 diabetes cause.
+There are a variety of risk factors for type 2 diabetes, any or all of which increase the chances of developing the condition.
+These include:
+. Obesity
+. Living a sedentary lifestyle
+. Increasing age
+. Bad diet
+
+PREVENTION :
+. Maintaining a healthy weight, eating a healthy diet and taking regular exercise.
+</item>
+
+        <item>
+             HYPERTENSION :
+Hypertension is another name for high blood pressure. It can lead to severe complications and increases the risk of heart disease,
+stroke, and death.
+
+SYMPTOMS :
+hypertension gives symptoms like: Fatigue, dizziness, palpitations, tachycardia (rapid heart rate) and nosebleeds
+Extreme hypertension gives morning headache, blurred vision, dyspnoea (breathing difficulties) and elevated values of certain
+components in the blood, like urea and serum creatinine.
+
+CAUSES :
+
+The direct mechanisms causing hypertension is :
+An increased tension in the blood vessel walls.
+An increased blood volume caused by elevated levels of salt and lipids in the blood holding back water.
+Hardened and inelastic blood vessels caused by arteriosclerosis.
+
+The primary causes behind these mechanisms are not fully stood, but these factors contribute to causing hypertension:
+A high consume of salt.
+A high fat consume.
+Stress at work and in the daily life.
+Smoking.
+Over-weight.
+Lack of exercise.
+Kidney failure.
+
+PREVENTION :
+Eating a healthy diet.
+Maintaining a healthy weight.
+Getting enough physical activity.
+Not smoking.
+Limiting alcohol use.
+        </item>
+
+        <item>
+                    BRONCHITIS :
+
+CAUSES : Bronchitis is caused by the inflammation of the bronchial tubes, by viruses, bacteria, or other irritant particles.
+
+CAUSES OF ACUTE BRONCHITIS :
+ Acute bronchitis is normally caused by viruses, typically those that also cause colds and flu.
+ It can also be caused by bacterial infection and exposure to substances that irritate the lungs, such as tobacco smoke, dust,
+fumes, vapors, and air pollution.
+
+CAUSES OF CHRONIC BRONCHITIS :
+ Chronic bronchitis is caused by repeated irritation and damage to the lung and airway tissue.
+ Smoking is the most common causes of chronic bronchitis, with other causes including long-term exposure to air pollution,
+dust and fumes from the environment, and repeated episodes of acute bronchitis.
+
+
+SYMPTOMS OF BRONCHITIS :
+ Signs and symptoms of both acute and chronic bronchitis include:
+ Persistent cough, which may produce mucus
+ Wheezing
+ Low fever and chills
+ Chest tightening
+ Sore throat
+ Body aches
+ Breathlessness
+ Headaches
+ Blocked nose and sinuses
+
+
+PREVENTION :
+Avoid cigarette smoke.
+Get the flu vaccine, since you might get bronchitis from the flu virus.
+Make sure your pertussis vaccine is up to date.
+Wash your hands often.
+Wear a mask when you’re around things that bother your lungs, such as paint fumes.
+        </item>
+
+        <item>
+
+                    Children have a right to basic facilities such as school toilets, safe drinking water, clean surroundings and basic information on hygiene. Water, sanitation and hygiene in schools creates an enabling environment which secures children’s dignity, safety, health and attendance in classes. Children are more receptive and quick to adopt and sustain change. They become agents of change among their peers, families and communities. Teachers as influential individuals, supported by the school management committees, play an important catalytic role.
+
+In India, central and state governments have committed to ensure inclusive access to WASH facilities in schools. Policies, programmes and commensurate resource allocations demonstrate the political will.
+
+WaterAid builds on the strong political commitment to promote WASH in schools and focusses on addressing the gap in service delivery, by empowering the school-related institutions to improve and maintain their WASH facilities and education. Our work includes:
+
+Participatory assessments
+Available information on WASH status in schools is inconsistent and often unreliable. We begin with baseline assessment which is carried out with active participation of children, teachers and school management.
+
+Ensuring access to safe drinking water and sanitation
+Access to a safe water source and extraction facility (deep well or protected sanitary well, with handpump or power pump);
+Drinking water dispenser system to ensure safety in storage and handling;
+Drinking water quality tested and treated if necessary;
+Separate toilets for girls and boys;
+Faecal sludge safely managed (covered leach pits, connection to sewer lines, EcoSan); and
+Doors and adequate lighting to ensure privacy and safety.
+Our work on hygiene in schools encompasses:
+Regular hygiene education to children through lessons on
+Handwashing before handling food and after contact with faeces;
+Safe handling of drinking water, raised and covered storage with a dispenser tap or ladle;
+Use of toilets;
+Water quality-testing and treating with practical demonstrations;
+Garbage disposal – activity-based education where children actually manage the garbage disposal in the school;
+Recycling waste water (kitchen gardens where space is available or soak pits); and
+Menstrual hygiene in upper primary schools and above (education, access to sanitary napkins, toilets with cleaning and disposal facilities).
+•	Handwashing facility available close to eating area.
+•	Learning aids, educational resources and tools.
+
+
+        </item>
+
+    </string-array>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="disease">
+        <item>MALARIA</item>
+        <item>Tuberculosis</item>
+        <item>Smallpox</item>
+        <item>BRONCHITIS</item>
+        <item>DIABETES</item>
+        <item>TYPHOID</item>
+        <item>Brain tumour</item>
+    </string-array>
+
+    <string-array name="symptoms">
+        <item>Breathlessness</item>
+        <item>Sore throat</item>
+        <item>Low fever and chills</item>
+        <item>Body pain</item>
+        <item>Vomiting</item>
+        <item>Fatigue</item>
+        <item>Headaches</item>
+    </string-array>
+
+    <string-array name="Language">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Gujrati</item>
+        <item>Marathi</item>
+    </string-array>
+
+
+    <string name="under_verification">Registration form Recieved! \nYour form is under Verification. You can Login after your form has been verified
+    </string>
+    <string name="title_activity_doctor_home" translatable="false">DoctorHome</string>
+
+
+
+
+
+    <string name="name">Name</string>
+
+    <string name="mobile_no">Mobile no</string>
+
+    <string name="otp">Enter otp here</string>
+
+    <string name="check_box">I hereby declare that all the above information is true to best of my knowledge and belief</string>
+
+    <string name="apply">Not a member? Apply Here...</string>
+    <string name="profile">My Profile</string>
+    <string name="comm">Communicate</string>
+
+    <string name="qulaification">Qualification</string>
+
+    <string name="experience">Experience</string>
+
+    <string name="city">city</string>
+
+    <string name="email">Email</string>
+
+    <string name="aadhar">Aadhar Card</string>
+
+    <string name="Upload_image">Upload Image</string>
+
+    <string name="upload_licence">Upload licence</string>
+
+    <string name="submit">Submit</string>
+
+    <string name="reset">Reset</string>
+
+    <string name="applicant">Name Of the Applicant</string>
+
+    <string name="renter">Renter Mobile No</string>
+
+    <string name="next">Next</string>
+
+    <string name="login">Login</string>
+
+    <string name="enter_otp">Enter otp</string>
+
+    <string name="done">Done</string>
+
+    <string name="login_dr">Login (for Doctors)</string>
+
+    <string name="search">Search for Nearby</string>
+
+    <string name="setting">Setting</string>
+
+    <string name="about">About</string>
+
+    <string name="contact">Contact No</string>
+
+    <string name="signout">Sign out</string>
+
+    <string name="trending">Trending Video</string>
+
+    <string name="recent">Recent uploads</string>
+
+    <string name="verify_otp">Verify Otp</string>
+
+    <string name="verify">verify</string>
+
+    <string name="enter_mobile">Enter Mobile Numer</string>
+
+    <string name="diabites"> Diabetes - There are two main types of diabetes: type 1 diabetes and Type 2 diabetes. More than 90% of all people with diabetes Type 2 More than a third of the people Type 2 Unaware of diabetes that they are sick and they are not getting the necessary remedies because for many people, early symptoms are not noticeable without testing. Type 1: occurs when the pancreas can not make insulin. Every insulin injection with type 1 diabetes is required Most people are diagnosed with type 1 diabetes in their childhood or adolescent years. Type 1 diabetes occurs in the people of most northern European descent. Type 2: Occurs when the pancreas does not have sufficient insulin or the body does not make proper use of insulin, it usually occurs in adults, although in some cases children may be affected with type 2 Diabetes is usually a family history of this condition and with 90% more weight or obesity, people may require insulin injection at the end of type 2 diabetes, this condition is the highest among people of indigenous and African descent, Hispanics, and Asian reason: Type 1: Type 1 Diabetes is caused by the immune system which destroys the cells in the pancreas, which creates insulin. It causes diabetes without leaving the body without adequate insulin to function normally This is called an autoimmune reaction or autoimmune cause, because the body is attacking itself </string>
+
+    <string name="bronkities"> Bronchitis: Reason: Bronchitis is caused by inflammation of bronchial tubes, viruses, bacteria or other irritants. Due to ACU Broncitis: Acute bronchitis is usually caused by a virus, usually due to those who cause cold and flu. It can also be caused by bacterial infections and contact with substances that disturb the lungs, such as tobacco smoke, dust, Smoke, vapor, and air pollution. Due to chronic bronchitis: Chronic bronchitis is caused by repetitive and damage to the lungs and airway tissues. Smoking is the most common cause of chronic bronchitis, along with other causes for long term exposure to air pollution, Smoke from dust and environment, and repeated episodes of acute bronchitis. Symptoms of bronchitis: Symptoms and symptoms of both acute and chronic bronchitis include: Constipation cough, which can cause mucus Wheezing Low fever and chills Chest tightening Sore throat Body pain i breathlessness Headache Blocked nose and sinus Prevention: Avoid cigarette smoke Get the flu vaccine, because you can get bronchitis from the flu virus. Make sure your Pertus vaccine is up to date Wash your hands often When you are worried about your lungs, such as paint fumes, </string>
+
+    <string name="about_1" translatable="false">Since this application as iniciated to povide servis=ces and awareness in tribal areas so our xpected users will be either less educated or illiterate our plan is to provide services which will include more of visuals and audial presentation</string>
+
+    <string name="disease">Filter By Disease</string>
+
+    <string name="symptoms">Filter By Symptoms</string>
+
+    <string name="apply_1">Apply</string>
+
+    <string name="language">Select Your Language</string>
+
+    <string name="upload_1">Upload</string>
+
+    <string name="Symptoms_1">Symptoms</string>
+
+    <string name="disease1">Disease name</string>
+
+    <string name="description">Descriptiption About Video</string>
+    <string name="filter_touch">Filter By Touch</string>
+    <string name="generic">Generic Drugs</string>
+    <string name="select_video">Select Video From Gallary</string>
+    <string name="touch_select">Touch And Select</string>
+    <string name="select_video1">" Choose a video from the gallery"</string>
+    <string name="about_string">Since this application as iniciated to povide servis=ces and awareness in tribal areas so our xpected users will be either less educated or illiterate our plan is to provide services which will include more of visuals and audial presentation</string>
+
+
+</resources>

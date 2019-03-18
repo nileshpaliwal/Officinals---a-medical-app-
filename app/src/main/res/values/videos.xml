@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+<array name="trending_0">
+    <item>@drawable/main_icon</item>
+    <item>My Video 1</item>
+</array>
+<array name="trending_1">
+    <item>@drawable/main_icon</item>
+    <item>My Video 2</item>
+</array>
+<array name="trending_2">
+    <item>@drawable/main_icon</item>
+    <item>My Video 3</item>
+</array>
+<array name="trending_3">
+    <item>@drawable/main_icon</item>
+    <item>My Video 4</item>
+</array>
+<array name="trending_4">
+    <item>@drawable/main_icon</item>
+    <item>My Video 5</item>
+</array>
+<array name="trending_5">
+    <item>@drawable/main_icon</item>
+    <item>My Video 6</item>
+</array>
+<string-array name="trendingVideos">
+
+    <item>@drawable/img1</item>
+
+    <item>@drawable/img2</item>
+
+    <item>@drawable/img3</item>
+
+    <item>@drawable/img4</item>
+
+    <item>@drawable/img5</item>
+
+</string-array>
+
+<string-array name="recentVideos">
+
+    <item>@drawable/img1</item>
+
+    <item>@drawable/img2</item>
+
+    <item>@drawable/img3</item>
+
+    <item>@drawable/img4</item>
+
+    <item>@drawable/img5</item>
+
+</string-array>
+
+
+    <string-array name="titles">
+        <item>Healthy Diet</item>
+        <item>Heena Khan Hindi(Diebities)</item>
+        <item>Hypertension by Heena Khan</item>
+        <item>Pulmonary Bronchitis</item>
+        <item>Teaching Children How to Improve Health</item>
+    </string-array>
+
+</resources>
