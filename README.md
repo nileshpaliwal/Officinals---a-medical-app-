@@ -1,0 +1,2 @@
+# Officinals---a-medical-app-
+Official is the the android application which is intended to provide medical awareness to the  tribal people, which contains small videos by highly qualified doctors dubbed in local tribal  languages. This app will provide generic name of the medicines so people can buy same medicine at much cheaper rates, the symptoms tracker included will provide the possibility of disease from the symptoms given by the user.
